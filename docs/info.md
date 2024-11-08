@@ -13,8 +13,8 @@ The inputs of the device are the outputs of an analog processing and we therefor
 
 ## How to test
 
-Explain how to use your project
+TODO
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Logics analyzer will be useful for debugging.
