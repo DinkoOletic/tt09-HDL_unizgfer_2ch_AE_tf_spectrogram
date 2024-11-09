@@ -18,7 +18,7 @@ This design is part of research activities https://www.fer.unizg.hr/liss/aemems.
 
 ## How to test
 
-TODO
+Please contact authors for detailed instructions on how to set-up the design.
 
 ## External hardware
 
