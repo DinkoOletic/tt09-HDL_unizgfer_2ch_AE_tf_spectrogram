@@ -3,7 +3,7 @@ project:
   title:        "Spectrogram extractor, 2 channels"      # Project title
   author:       "Coline Chehense, Dinko Oletic"      # Your name
   discord:      "dinko.oletic"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Recovers and decodes the amplitude received on each channel, records them in a double buffer and sends them serially (one output per channel) in real time"      # One line description of what your project does
+  description:  "Digital part of a time-frequency feature extraction sensor interface, two-channel real-time signal amplitude tracker. 7 input lines per channel represent thermometer code output of a flash ADC. Two-channel serial output."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     1000000       # Clock frequency in Hz (or 0 if not applicable)
 
