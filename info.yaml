@@ -27,7 +27,7 @@ project:
     - "memory.v"
     - "memory_controller.v"
     - "top.v"
-    - "tt_um_Coline3003_top.v"
+    - "tt_um_Coline3003_spect_top.v"
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
